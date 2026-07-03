@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1440" height="1000" fill="#ffffff"/>
+
+  <!-- Titulo do wireframe -->
+  <text x="80" y="46" font-size="22" font-weight="bold" fill="#333333">W3 — Solicitar ferias (seletor de periodo + resumo)</text>
+  <text x="80" y="70" font-size="14" fill="#777777">Historia atendida: US05 · Baixa fidelidade (esqueleto, sem cor/imagem)</text>
+
+  <!-- Frame -->
+  <rect x="80" y="90" width="1280" height="860" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+
+  <!-- Barra superior -->
+  <rect x="80" y="90" width="1280" height="64" fill="#f2f2f2" stroke="#999999"/>
+  <rect x="112" y="106" width="150" height="32" fill="#ffffff" stroke="#999999"/>
+  <text x="187" y="127" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">FeriasFlow</text>
+  <text x="330" y="127" font-size="14" fill="#777777">Inicio</text>
+  <text x="410" y="127" font-size="14" font-weight="bold" fill="#333333">Solicitar ferias</text>
+  <rect x="406" y="136" width="108" height="3" fill="#333333"/>
+  <text x="540" y="127" font-size="14" fill="#777777">Meus pedidos</text>
+  <circle cx="1150" cy="122" r="14" fill="#ffffff" stroke="#999999"/>
+  <line x1="1140" y1="112" x2="1160" y2="132" stroke="#999999"/>
+  <line x1="1160" y1="112" x2="1140" y2="132" stroke="#999999"/>
+  <text x="1330" y="127" font-size="13" fill="#333333" text-anchor="end">Carla · Colaboradora</text>
+
+  <!-- Breadcrumb -->
+  <text x="112" y="190" font-size="13" fill="#777777">Inicio &gt; Solicitar ferias</text>
+  <text x="112" y="226" font-size="24" font-weight="bold" fill="#333333">Solicitar ferias</text>
+
+  <!-- Calendario (2 meses) -->
+  <rect x="112" y="260" width="760" height="560" fill="#ffffff" stroke="#333333" stroke-width="1.5"/>
+  <!-- Navegacao do calendario -->
+  <rect x="140" y="284" width="32" height="32" fill="#ffffff" stroke="#999999"/>
+  <text x="156" y="306" font-size="16" fill="#333333" text-anchor="middle">&lt;</text>
+  <text x="492" y="306" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">Setembro 2026</text>
+  <rect x="812" y="284" width="32" height="32" fill="#ffffff" stroke="#999999"/>
+  <text x="828" y="306" font-size="16" fill="#333333" text-anchor="middle">&gt;</text>
+
+  <!-- Dias da semana -->
+  <text x="190" y="352" font-size="12" fill="#777777" text-anchor="middle">DOM</text>
+  <text x="290" y="352" font-size="12" fill="#777777" text-anchor="middle">SEG</text>
+  <text x="390" y="352" font-size="12" fill="#777777" text-anchor="middle">TER</text>
+  <text x="490" y="352" font-size="12" fill="#777777" text-anchor="middle">QUA</text>
+  <text x="590" y="352" font-size="12" fill="#777777" text-anchor="middle">QUI</text>
+  <text x="690" y="352" font-size="12" fill="#777777" text-anchor="middle">SEX</text>
+  <text x="790" y="352" font-size="12" fill="#777777" text-anchor="middle">SAB</text>
+
+  <!-- Grade 7x5 -->
+  <g stroke="#cccccc" fill="#ffffff">
+    <rect x="140" y="368" width="100" height="80"/><rect x="240" y="368" width="100" height="80"/><rect x="340" y="368" width="100" height="80"/><rect x="440" y="368" width="100" height="80"/><rect x="540" y="368" width="100" height="80"/><rect x="640" y="368" width="100" height="80"/><rect x="740" y="368" width="100" height="80"/>
+    <rect x="140" y="448" width="100" height="80"/><rect x="240" y="448" width="100" height="80"/><rect x="340" y="448" width="100" height="80"/><rect x="440" y="448" width="100" height="80"/><rect x="540" y="448" width="100" height="80"/><rect x="640" y="448" width="100" height="80"/><rect x="740" y="448" width="100" height="80"/>
+    <rect x="140" y="528" width="100" height="80"/><rect x="240" y="528" width="100" height="80"/><rect x="340" y="528" width="100" height="80"/><rect x="440" y="528" width="100" height="80"/><rect x="540" y="528" width="100" height="80"/><rect x="640" y="528" width="100" height="80"/><rect x="740" y="528" width="100" height="80"/>
+    <rect x="140" y="608" width="100" height="80"/><rect x="240" y="608" width="100" height="80"/><rect x="340" y="608" width="100" height="80"/><rect x="440" y="608" width="100" height="80"/><rect x="540" y="608" width="100" height="80"/><rect x="640" y="608" width="100" height="80"/><rect x="740" y="608" width="100" height="80"/>
+    <rect x="140" y="688" width="100" height="80"/><rect x="240" y="688" width="100" height="80"/><rect x="340" y="688" width="100" height="80"/><rect x="440" y="688" width="100" height="80"/><rect x="540" y="688" width="100" height="80"/><rect x="640" y="688" width="100" height="80"/><rect x="740" y="688" width="100" height="80"/>
+  </g>
+
+  <!-- Periodo selecionado: 01/09 (ter) a 10/09 (qui) - hachurado -->
+  <g fill="#dddddd" stroke="#333333">
+    <rect x="340" y="368" width="100" height="80"/><rect x="440" y="368" width="100" height="80"/><rect x="540" y="368" width="100" height="80"/><rect x="640" y="368" width="100" height="80"/>
+    <rect x="140" y="448" width="100" height="80"/><rect x="240" y="448" width="100" height="80"/><rect x="340" y="448" width="100" height="80"/><rect x="440" y="448" width="100" height="80"/><rect x="540" y="448" width="100" height="80"/>
+  </g>
+  <text x="352" y="388" font-size="12" fill="#333333">1</text>
+  <text x="452" y="388" font-size="12" fill="#333333">2</text>
+  <text x="552" y="388" font-size="12" fill="#333333">3</text>
+  <text x="652" y="388" font-size="12" fill="#333333">4</text>
+  <text x="752" y="388" font-size="12" fill="#333333">5</text>
+  <text x="152" y="468" font-size="12" fill="#333333">6</text>
+  <text x="252" y="468" font-size="12" fill="#333333">7</text>
+  <text x="352" y="468" font-size="12" fill="#333333">8</text>
+  <text x="452" y="468" font-size="12" fill="#333333">9</text>
+  <text x="552" y="468" font-size="12" fill="#333333">10</text>
+  <text x="652" y="468" font-size="12" fill="#333333">11</text>
+  <text x="752" y="468" font-size="12" fill="#333333">12</text>
+  <text x="490" y="806" font-size="12" fill="#777777" text-anchor="middle">Periodo selecionado no arraste: 01/09 a 10/09 (celulas em cinza)</text>
+
+  <!-- Painel resumo -->
+  <rect x="900" y="260" width="428" height="420" fill="#f2f2f2" stroke="#333333" stroke-width="1.5"/>
+  <text x="928" y="298" font-size="16" font-weight="bold" fill="#333333">Resumo do pedido</text>
+  <line x1="928" y1="312" x2="1300" y2="312" stroke="#999999"/>
+  <text x="928" y="344" font-size="13" fill="#777777">Periodo</text>
+  <text x="1300" y="344" font-size="13" fill="#333333" text-anchor="end">01/09/2026 a 10/09/2026</text>
+  <text x="928" y="376" font-size="13" fill="#777777">Dias solicitados</text>
+  <text x="1300" y="376" font-size="13" fill="#333333" text-anchor="end">10</text>
+  <text x="928" y="408" font-size="13" fill="#777777">Saldo atual</text>
+  <text x="1300" y="408" font-size="13" fill="#333333" text-anchor="end">18 dias</text>
+  <text x="928" y="440" font-size="13" font-weight="bold" fill="#333333">Saldo restante projetado</text>
+  <text x="1300" y="440" font-size="13" font-weight="bold" fill="#333333" text-anchor="end">8 dias</text>
+  <line x1="928" y1="458" x2="1300" y2="458" stroke="#999999"/>
+
+  <!-- Validacoes (criterios negativos) -->
+  <rect x="928" y="474" width="372" height="60" fill="#ffffff" stroke="#999999" stroke-dasharray="4 3"/>
+  <text x="940" y="496" font-size="11.5" fill="#777777">Validacoes bloqueantes: periodo maior que o saldo</text>
+  <text x="940" y="514" font-size="11.5" fill="#777777">(mostra saldo disponivel) · data de inicio no passado</text>
+
+  <!-- Botoes -->
+  <rect x="928" y="556" width="372" height="48" fill="#333333"/>
+  <text x="1114" y="586" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">Enviar pedido</text>
+  <rect x="928" y="616" width="372" height="40" fill="#ffffff" stroke="#999999"/>
+  <text x="1114" y="641" font-size="14" fill="#333333" text-anchor="middle">Cancelar</text>
+
+  <!-- Nota MVP -->
+  <rect x="900" y="700" width="428" height="120" fill="#ffffff" stroke="#999999" stroke-dasharray="5 4"/>
+  <text x="928" y="728" font-size="12" fill="#777777">Nota de escopo (MVP): 1 periodo por pedido.</text>
+  <text x="928" y="748" font-size="12" fill="#777777">Fracionamento CLT (ate 3 periodos) entra no</text>
+  <text x="928" y="768" font-size="12" fill="#777777">Incremento 2 (F11).</text>
+  <text x="928" y="796" font-size="12" fill="#777777">Pedido criado -> status PENDENTE (vai para W2/W5).</text>
+
+  <!-- Notas -->
+  <text x="80" y="980" font-size="12" fill="#999999">Criterios (US05): dentro do saldo -> cria PENDENTE com resumo; acima do saldo -> bloqueia e informa saldo; inicio no passado -> bloqueia com mensagem clara.</text>
+</svg>
