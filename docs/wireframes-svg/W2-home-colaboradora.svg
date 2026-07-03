@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1440" height="1000" fill="#ffffff"/>
+
+  <!-- Titulo do wireframe -->
+  <text x="80" y="46" font-size="22" font-weight="bold" fill="#333333">W2 — Home da colaboradora (saldo + meus pedidos)</text>
+  <text x="80" y="70" font-size="14" fill="#777777">Historias atendidas: US04, US06 · Baixa fidelidade (esqueleto, sem cor/imagem)</text>
+
+  <!-- Frame -->
+  <rect x="80" y="90" width="1280" height="860" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+
+  <!-- Barra superior -->
+  <rect x="80" y="90" width="1280" height="64" fill="#f2f2f2" stroke="#999999"/>
+  <rect x="112" y="106" width="150" height="32" fill="#ffffff" stroke="#999999"/>
+  <text x="187" y="127" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">FeriasFlow</text>
+  <!-- Nav (para onde posso ir) -->
+  <text x="330" y="127" font-size="14" font-weight="bold" fill="#333333">Inicio</text>
+  <rect x="326" y="136" width="44" height="3" fill="#333333"/>
+  <text x="410" y="127" font-size="14" fill="#777777">Solicitar ferias</text>
+  <text x="540" y="127" font-size="14" fill="#777777">Meus pedidos</text>
+  <!-- Usuario logado (onde estou / quem sou) -->
+  <circle cx="1150" cy="122" r="14" fill="#ffffff" stroke="#999999"/>
+  <line x1="1140" y1="112" x2="1160" y2="132" stroke="#999999"/>
+  <line x1="1160" y1="112" x2="1140" y2="132" stroke="#999999"/>
+  <text x="1330" y="127" font-size="13" fill="#333333" text-anchor="end">Carla · Colaboradora</text>
+
+  <!-- Breadcrumb (de onde vim / onde estou) -->
+  <text x="112" y="190" font-size="13" fill="#777777">Inicio</text>
+  <text x="112" y="226" font-size="24" font-weight="bold" fill="#333333">Ola, Carla</text>
+
+  <!-- Card de saldo (US04) -->
+  <rect x="112" y="260" width="580" height="220" fill="#f2f2f2" stroke="#333333" stroke-width="1.5"/>
+  <text x="140" y="300" font-size="15" fill="#333333">Seu saldo de ferias</text>
+  <text x="140" y="380" font-size="56" font-weight="bold" fill="#333333">18 dias</text>
+  <text x="140" y="416" font-size="13" fill="#777777">Ultima atualizacao: 02/07/2026 (pedidos aprovados ja descontados)</text>
+  <!-- CTA -->
+  <rect x="140" y="432" width="220" height="36" fill="#333333"/>
+  <text x="250" y="455" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Solicitar ferias</text>
+
+  <!-- Card resumo rapido -->
+  <rect x="720" y="260" width="608" height="220" fill="#ffffff" stroke="#999999" stroke-dasharray="5 4"/>
+  <text x="748" y="300" font-size="15" fill="#333333">Resumo</text>
+  <text x="748" y="340" font-size="13" fill="#777777">Pedidos pendentes: 1</text>
+  <text x="748" y="368" font-size="13" fill="#777777">Pedidos aprovados no ano: 1</text>
+  <text x="748" y="396" font-size="13" fill="#777777">Proximas ferias aprovadas: 12/10/2026 a 26/10/2026</text>
+
+  <!-- Lista Meus pedidos (US06) -->
+  <text x="112" y="546" font-size="18" font-weight="bold" fill="#333333">Meus pedidos</text>
+  <!-- Cabecalho tabela -->
+  <rect x="112" y="564" width="1216" height="40" fill="#f2f2f2" stroke="#999999"/>
+  <text x="132" y="590" font-size="13" font-weight="bold" fill="#333333">Periodo</text>
+  <text x="472" y="590" font-size="13" font-weight="bold" fill="#333333">Dias</text>
+  <text x="592" y="590" font-size="13" font-weight="bold" fill="#333333">Status</text>
+  <text x="812" y="590" font-size="13" font-weight="bold" fill="#333333">Decidido por</text>
+  <text x="1092" y="590" font-size="13" font-weight="bold" fill="#333333">Acao</text>
+  <!-- Linha 1 -->
+  <rect x="112" y="604" width="1216" height="48" fill="#ffffff" stroke="#cccccc"/>
+  <text x="132" y="634" font-size="13" fill="#333333">01/09/2026 a 10/09/2026</text>
+  <text x="472" y="634" font-size="13" fill="#333333">10</text>
+  <rect x="592" y="616" width="100" height="24" rx="12" fill="#ffffff" stroke="#999999"/>
+  <text x="642" y="633" font-size="12" fill="#333333" text-anchor="middle">PENDENTE</text>
+  <text x="812" y="634" font-size="13" fill="#777777">—</text>
+  <text x="1092" y="634" font-size="13" fill="#333333" text-decoration="underline">Ver detalhe</text>
+  <!-- Linha 2 -->
+  <rect x="112" y="652" width="1216" height="48" fill="#ffffff" stroke="#cccccc"/>
+  <text x="132" y="682" font-size="13" fill="#333333">12/10/2026 a 26/10/2026</text>
+  <text x="472" y="682" font-size="13" fill="#333333">15</text>
+  <rect x="592" y="664" width="100" height="24" rx="12" fill="#333333"/>
+  <text x="642" y="681" font-size="12" fill="#ffffff" text-anchor="middle">APROVADO</text>
+  <text x="812" y="682" font-size="13" fill="#333333">Gustavo (gestor)</text>
+  <text x="1092" y="682" font-size="13" fill="#333333" text-decoration="underline">Ver detalhe</text>
+  <!-- Linha 3 -->
+  <rect x="112" y="700" width="1216" height="48" fill="#ffffff" stroke="#cccccc"/>
+  <text x="132" y="730" font-size="13" fill="#333333">20/12/2026 a 30/12/2026</text>
+  <text x="472" y="730" font-size="13" fill="#333333">10</text>
+  <rect x="592" y="712" width="100" height="24" rx="12" fill="#ffffff" stroke="#333333" stroke-dasharray="4 3"/>
+  <text x="642" y="729" font-size="12" fill="#333333" text-anchor="middle">REPROVADO</text>
+  <text x="812" y="730" font-size="13" fill="#333333">Gustavo (gestor)</text>
+  <text x="1092" y="730" font-size="13" fill="#333333" text-decoration="underline">Ver detalhe</text>
+
+  <!-- Estado vazio (anotacao) -->
+  <rect x="112" y="776" width="1216" height="64" fill="#ffffff" stroke="#999999" stroke-dasharray="5 4"/>
+  <text x="132" y="802" font-size="12" fill="#777777">Estado vazio (sem pedidos): "Voce ainda nao tem pedidos de ferias."</text>
+  <text x="132" y="822" font-size="12" fill="#777777">+ botao "Criar meu primeiro pedido" -> W3 (criterio negativo da US06)</text>
+
+  <!-- Notas -->
+  <text x="80" y="980" font-size="12" fill="#999999">Krug: nav com item ativo sublinhado (onde estou), breadcrumb (de onde vim), CTA e links de detalhe (para onde posso ir). RNF US04: saldo em ate 2 s.</text>
+</svg>
