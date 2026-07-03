@@ -7,14 +7,17 @@ Sequencia de atividades conforme Paulo Caroli. Cada secao vira um quadro no boar
 
 ## Atividade 1 — Visao do produto (elevator pitch)
 
-> **Para** gestores de equipes e seus colaboradores
-> **cujo** planejamento de ferias hoje e feito no escuro, espalhado em planilhas e e-mails,
-> **o FeriasFlow** e uma aplicacao web de gestao de ferias
-> **que** centraliza pedido, saldo, calendario da equipe e aprovacao num unico fluxo, mostrando
+Template de visao de produto de Moore (1998), conforme a aula:
+
+> **PARA** gestores de equipes e seus colaboradores
+> **QUE** hoje planejam ferias no escuro, com informacoes espalhadas em planilhas e e-mails,
+> **O** FeriasFlow
+> **E UMA** aplicacao web de gestao de ferias de equipe
+> **QUE** centraliza pedido, saldo, calendario da equipe e aprovacao num unico fluxo, mostrando
 > sobreposicao e cobertura antes da decisao.
-> **Diferente de** planilhas manuais e do modulo burocratico do sistema de RH,
-> **o nosso produto** dá ao gestor uma decisao informada em segundos e ao colaborador transparencia
-> de saldo e status em tempo real.
+> **DIFERENTEMENTE DE** planilhas manuais e do modulo burocratico do sistema de RH,
+> **O NOSSO PRODUTO** da ao gestor uma decisao informada em minutos e ao colaborador
+> transparencia de saldo e status em tempo real.
 
 ---
 
