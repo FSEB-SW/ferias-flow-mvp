@@ -14,10 +14,10 @@ cobertura da operacao no mesmo lugar.
 
 | Item | Onde |
 |------|------|
-| Lean Inception + MVP Canvas | [`canvas-url.txt`](./canvas-url.txt) (board no Miro) |
-| Backlog do Produto + Definition of Ready + Definition of Done | [`product-backlog.pdf`](./product-backlog.pdf) |
-| Backlog da Sprint 1 (com story points e criterios de aceitacao) | [`sprint-backlog.pdf`](./sprint-backlog.pdf) |
-| Wireframes (baixa fidelidade, Figma) | [`wireframes/`](./wireframes) |
+| Lean Inception + MVP Canvas | [Board no Miro](https://miro.com/app/board/uXjVH_MrRDs=/) (tambem em [`canvas-url.txt`](./canvas-url.txt)) |
+| Backlog do Produto + Definition of Ready + Definition of Done | [`product-backlog.pdf`](./product-backlog.pdf) (fonte: [projeto FF no Jira](https://fseb.atlassian.net/jira/software/projects/FF/boards/1/backlog)) |
+| Backlog da Sprint 1 (com story points e criterios de aceitacao) | [`sprint-backlog.pdf`](./sprint-backlog.pdf) (fonte: [projeto FF no Jira](https://fseb.atlassian.net/jira/software/projects/FF/boards/1/backlog)) |
+| Wireframes (baixa fidelidade, Figma) | [`wireframes/`](./wireframes) (fonte: [arquivo no Figma](https://www.figma.com/design/BNJQJ72yv7E8SYnrnXYAdK/FeriasFlow-%E2%80%94-Wireframes?node-id=0-1)) |
 | Video de apresentacao (2-4 min) | _(arquivo na raiz ou URL abaixo)_ |
 
 **Video:** _(a incluir)_
