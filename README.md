@@ -18,14 +18,15 @@ cobertura da operacao no mesmo lugar.
 | Backlog do Produto + Definition of Ready + Definition of Done | [`product-backlog.pdf`](./product-backlog.pdf) (fonte: [projeto FF no Jira](https://fseb.atlassian.net/jira/software/projects/FF/boards/1/backlog)) |
 | Backlog da Sprint 1 (com story points e criterios de aceitacao) | [`sprint-backlog.pdf`](./sprint-backlog.pdf) (fonte: [projeto FF no Jira](https://fseb.atlassian.net/jira/software/projects/FF/boards/1/backlog)) |
 | Wireframes (baixa fidelidade, Figma) | [`wireframes/`](./wireframes) (fonte: [arquivo no Figma](https://www.figma.com/design/BNJQJ72yv7E8SYnrnXYAdK/FeriasFlow-%E2%80%94-Wireframes?node-id=0-1)) |
-| Video de apresentacao (2-4 min) | [`video.mp4`](./video.mp4) |
+| Video de apresentacao (2-4 min) | [`video.mp4`](./video.mp4) (tambem no [YouTube](https://youtu.be/PDkuAqQFrCQ)) |
 
 > Miro e Figma estao com visualizacao publica pelo link. Os links do Jira apontam para o
 > workspace de origem, de acesso restrito (plano free, sem link anonimo) — as versoes
 > avaliaveis dos backlogs sao os PDFs exportados acima.
 
-**Video:** [`video.mp4`](./video.mp4) (3 min 57 s; gerado e gravado com IA — narracao
-sintetica e captura de tela automatizada; conteudo e artefatos de autoria do aluno).
+**Video:** [`video.mp4`](./video.mp4) ou [YouTube](https://youtu.be/PDkuAqQFrCQ) (3 min 57 s;
+gerado e gravado com IA — narracao sintetica e captura de tela automatizada; conteudo e
+artefatos de autoria do aluno).
 
 ## Contexto de negocio
 
